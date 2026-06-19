@@ -389,7 +389,7 @@ Agrega una tarjeta de perfil, centra el contenido, cambia el fondo y convierte u
 
 - **Dificultad**: Intermedio inicial
 - **Descripcion**: Integra HTML y CSS para construir una pagina de perfil personal completa.
-- **Enlace de YouTube**: [Ver la leccion](https://youtu.be/REEMPLAZAR-L7)
+- **Enlace de YouTube**: [Ver la leccion](https://youtu.be/kuQhxT2BGuU)
 - **Proyecto online**: [Abrir en CodePen](https://codepen.io/pen/?template=REEMPLAZAR-L7)
 - **Archivo starter**: [`starter-files/lesson07-final-profile-page.html`](./starter-files/lesson07-final-profile-page.html)
 - **Archivo completo**: [`completed-examples/lesson07-final-profile-page.html`](./completed-examples/lesson07-final-profile-page.html)
@@ -533,7 +533,7 @@ Revisa tu pagina final. Comprueba que el titulo, la imagen, la lista, el enlace 
 | 4 | [https://youtu.be/REEMPLAZAR-L4](https://youtu.be/REEMPLAZAR-L4) |
 | 5 | [https://youtu.be/REEMPLAZAR-L5](https://youtu.be/REEMPLAZAR-L5) |
 | 6 | [https://youtu.be/REEMPLAZAR-L6](https://youtu.be/REEMPLAZAR-L6) |
-| 7 | [https://youtu.be/REEMPLAZAR-L7](https://youtu.be/kuQhxT2BGuU) |
+| 7 | [https://youtu.be/[parte 7](https://youtu.be/kuQhxT2BGuU) |
 | 8 | [https://youtu.be/REEMPLAZAR-L8](https://youtu.be/REEMPLAZAR-L8) |
 
 > Reemplazar cada enlace cuando los videos no listados esten publicados en YouTube.
