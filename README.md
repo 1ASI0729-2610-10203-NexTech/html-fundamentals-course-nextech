@@ -7,7 +7,6 @@ El curso explica que es un sitio web, como se estructura con HTML y como se apli
 ## Documento principal
 
 - [Plan de curso en Markdown](./course-plan.md)
-- [Guion completo de videos](./scripts/full-video-script.md)
 
 ## Objetivo del curso
 
