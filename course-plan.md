@@ -463,7 +463,7 @@ Personaliza la pagina con tu nombre, tus intereses, colores propios y un enlace 
 
 - **Dificultad**: Basico
 - **Descripcion**: Revisa errores frecuentes de HTML y CSS, recomendaciones para principiantes y proximos pasos.
-- **Enlace de YouTube**: [Ver la leccion](https://youtu.be/REEMPLAZAR-L8)
+- **Enlace de YouTube**: [Ver la leccion](https://youtu.be/lzqg2gafHuQ)
 - **Practica online**: [Abrir en CodePen](https://codepen.io/pen/?template=REEMPLAZAR-L8)
 - **Guion de apoyo**: [`scripts/lesson-08-recommendations-common-errors.md`](./scripts/lesson-08-recommendations-common-errors.md)
 
@@ -533,8 +533,8 @@ Revisa tu pagina final. Comprueba que el titulo, la imagen, la lista, el enlace 
 | 4 | [https://youtu.be/REEMPLAZAR-L4](https://youtu.be/REEMPLAZAR-L4) |
 | 5 | [https://youtu.be/REEMPLAZAR-L5](https://youtu.be/REEMPLAZAR-L5) |
 | 6 | [https://youtu.be/REEMPLAZAR-L6](https://youtu.be/REEMPLAZAR-L6) |
-| 7 | [https://youtu.be/[parte 7](https://youtu.be/kuQhxT2BGuU) |
-| 8 | [https://youtu.be/REEMPLAZAR-L8](https://youtu.be/REEMPLAZAR-L8) |
+| 7 | [https://youtu.be/parte 7](https://youtu.be/kuQhxT2BGuU) |
+| 8 | [https://youtu.be/parte_8](https://youtu.be/lzqg2gafHuQ) |
 
 > Reemplazar cada enlace cuando los videos no listados esten publicados en YouTube.
 
