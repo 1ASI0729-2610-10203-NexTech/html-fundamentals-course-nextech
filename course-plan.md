@@ -259,8 +259,8 @@ Crea una mini pagina de perfil con tu nombre, una descripcion, una lista de inte
 
 - **Dificultad**: Basico
 - **Descripcion**: Explica que es CSS, como se conecta con HTML y como se usan selectores y propiedades.
-- **Enlace de YouTube**: [Ver la leccion](https://youtu.be/REEMPLAZAR-L5)
-- **Practica online**: [Abrir en CodePen](https://codepen.io/pen/?template=REEMPLAZAR-L5)
+- **Enlace de YouTube**: [Ver la leccion](https://youtu.be/Jw-byqwo3WQ)
+- **Practica online**: [Abrir en CodePen](https://codepen.io/Anonymous112_/pen/Byppvrm)
 - **Archivo starter**: [`starter-files/lesson05-intro-css.html`](./starter-files/lesson05-intro-css.html)
 - **Archivo completo**: [`completed-examples/lesson05-intro-css.html`](./completed-examples/lesson05-intro-css.html)
 
@@ -329,8 +329,8 @@ Cambia el color del titulo, el color de fondo de la pagina y la fuente del texto
 
 - **Dificultad**: Basico
 - **Descripcion**: Aplica estilos simples para mejorar una pagina: centrado, colores, bordes, espacios y botones.
-- **Enlace de YouTube**: [Ver la leccion](https://youtu.be/REEMPLAZAR-L6)
-- **Practica online**: [Abrir en CodePen](https://codepen.io/pen/?template=REEMPLAZAR-L6)
+- **Enlace de YouTube**: [Ver la leccion](https://youtu.be/1w1r9URv8ng)
+- **Practica online**: [Abrir en CodePen](https://codepen.io/Anonymous112_/pen/LExxvVK?editors=1100)
 - **Archivo starter**: [`starter-files/lesson06-simple-styles.html`](./starter-files/lesson06-simple-styles.html)
 - **Archivo completo**: [`completed-examples/lesson06-simple-styles.html`](./completed-examples/lesson06-simple-styles.html)
 

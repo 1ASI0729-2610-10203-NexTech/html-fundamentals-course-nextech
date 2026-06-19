@@ -2,15 +2,51 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Estilos simples</title>
+  <title>Lección 6: Tarjeta de Perfil con CSS</title>
   <style>
-    body { background-color: #f3f4f6; font-family: Arial, sans-serif; text-align: center; padding: 40px; }
-    .card { background-color: white; border: 1px solid #d1d5db; border-radius: 12px; padding: 24px; width: 320px; margin: 0 auto; }
-    h1 { color: #111827; }
-    p { color: #4b5563; }
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #e8f0fe;
+        text-align: center;
+    }
+
+    .tarjeta {
+        background-color: white;
+        border: 2px solid #333;
+        padding: 20px;
+        margin: 40px auto;
+        width: 50%;
+        border-radius: 10px;
+    }
+
+    img {
+        width: 150px;
+        border-radius: 50%;
+    }
+
+    a {
+        color: white;
+        background-color: #1976d2;
+        padding: 10px 15px;
+        border-radius: 8px;
+        text-decoration: none;
+    }
+
+    a:hover {
+        background-color: #1565c0;
+    }
   </style>
 </head>
 <body>
-  <div class="card"><h1>Mi tarjeta</h1><p>Esta es una tarjeta con estilos simples.</p></div>
+
+  <div class="tarjeta">
+    <h1>Mi tarjeta</h1>
+    <p>Estoy practicando estilos con CSS</p>
+    
+    <img src="https://picsum.photos/150" alt="Foto de perfil">
+    <br><br>
+    <a href="#">Buscar información</a>
+  </div>
+
 </body>
 </html>
