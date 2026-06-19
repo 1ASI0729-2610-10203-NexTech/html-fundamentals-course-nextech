@@ -143,11 +143,11 @@ Escribe una pagina pequena con un titulo y dos parrafos. Cambia el texto para qu
 
 ---
 
-### Leccion 3: Etiquetas, elementos y atributos (7 minutos)
+### Leccion 3: Etiquetas, elementos y atributos (11:18 minutos)
 
 - **Dificultad**: Basico
 - **Descripcion**: Explica la diferencia entre etiqueta, elemento y atributo usando ejemplos con parrafos, enlaces e imagenes.
-- **Enlace de YouTube**: [Ver la leccion](https://youtu.be/REEMPLAZAR-L3)
+- **Enlace de YouTube**: https://youtu.be/aWG9XW4Cwr0
 - **Practica online**: [Abrir en CodePen](https://codepen.io/pen/?template=REEMPLAZAR-L3)
 - **Archivo starter**: [`starter-files/lesson03-tags-elements-attributes.html`](./starter-files/lesson03-tags-elements-attributes.html)
 - **Archivo completo**: [`completed-examples/lesson03-tags-elements-attributes.html`](./completed-examples/lesson03-tags-elements-attributes.html)
@@ -194,11 +194,11 @@ Crea un titulo, un parrafo y un enlace. Luego cambia el texto del enlace por una
 
 ---
 
-### Leccion 4: Elementos HTML comunes (8 minutos)
+### Leccion 4: Elementos HTML comunes (11:17 minutos)
 
 - **Dificultad**: Basico
 - **Descripcion**: Presenta encabezados, parrafos, listas, imagenes y enlaces para crear una pagina sencilla.
-- **Enlace de YouTube**: [Ver la leccion](https://youtu.be/REEMPLAZAR-L4)
+- **Enlace de YouTube**: https://youtu.be/lsmOu3zXPJk
 - **Practica online**: [Abrir en CodePen](https://codepen.io/pen/?template=REEMPLAZAR-L4)
 - **Archivo starter**: [`starter-files/lesson04-common-elements.html`](./starter-files/lesson04-common-elements.html)
 - **Archivo completo**: [`completed-examples/lesson04-common-elements.html`](./completed-examples/lesson04-common-elements.html)
