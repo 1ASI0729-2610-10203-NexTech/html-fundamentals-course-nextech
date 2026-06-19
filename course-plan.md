@@ -34,7 +34,7 @@ Al finalizar el curso, el estudiante podra:
 
 - **Dificultad**: Principiante absoluto
 - **Descripcion**: Introduce que es un sitio web, como funciona el navegador y que papel cumplen HTML, CSS y JavaScript.
-- **Enlace de YouTube**: [Ver la leccion](https://youtu.be/REEMPLAZAR-L1)
+- **Enlace de YouTube**: [Ver la leccion](https://youtu.be/ZL58fGB9jGE)
 - **Practica online**: [Abrir en CodePen](https://codepen.io/pen/?template=REEMPLAZAR-L1)
 - **Archivo starter**: [`starter-files/lesson01-intro-web.html`](./starter-files/lesson01-intro-web.html)
 - **Archivo completo**: [`completed-examples/lesson01-intro-web.html`](./completed-examples/lesson01-intro-web.html)
@@ -84,7 +84,7 @@ Abre CodePen o tu editor online favorito y escribe el ejemplo anterior. Observa 
 
 - **Dificultad**: Principiante
 - **Descripcion**: Presenta la estructura minima de una pagina HTML y explica para que sirven `<!DOCTYPE html>`, `<html>`, `<head>` y `<body>`.
-- **Enlace de YouTube**: [Ver la leccion](https://youtu.be/REEMPLAZAR-L2)
+- **Enlace de YouTube**: [Ver la leccion](https://youtu.be/CeO20LvVjyY)
 - **Practica online**: [Abrir en CodePen](https://codepen.io/pen/?template=REEMPLAZAR-L2)
 - **Archivo starter**: [`starter-files/lesson02-html-structure.html`](./starter-files/lesson02-html-structure.html)
 - **Archivo completo**: [`completed-examples/lesson02-html-structure.html`](./completed-examples/lesson02-html-structure.html)
