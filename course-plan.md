@@ -533,7 +533,7 @@ Revisa tu pagina final. Comprueba que el titulo, la imagen, la lista, el enlace 
 | 4 | [https://youtu.be/REEMPLAZAR-L4](https://youtu.be/REEMPLAZAR-L4) |
 | 5 | [https://youtu.be/REEMPLAZAR-L5](https://youtu.be/REEMPLAZAR-L5) |
 | 6 | [https://youtu.be/REEMPLAZAR-L6](https://youtu.be/REEMPLAZAR-L6) |
-| 7 | [https://youtu.be/REEMPLAZAR-L7](https://youtu.be/REEMPLAZAR-L7) |
+| 7 | [https://youtu.be/REEMPLAZAR-L7](https://youtu.be/kuQhxT2BGuU) |
 | 8 | [https://youtu.be/REEMPLAZAR-L8](https://youtu.be/REEMPLAZAR-L8) |
 
 > Reemplazar cada enlace cuando los videos no listados esten publicados en YouTube.
