@@ -9,7 +9,6 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creacion de siti
 - **Prerrequisitos**: Ninguno
 - **Herramientas necesarias**: Navegador web (Chrome, Firefox, Safari o Edge), CodePen, JSFiddle o Replit
 - **Repositorio de codigo fuente**: [https://github.com/1ASI0729-2610-10203-NexTech/html-fundamentals-course-nextech](https://github.com/1ASI0729-2610-10203-NexTech/html-fundamentals-course-nextech)
-- **Guion completo**: [`scripts/full-video-script.md`](./scripts/full-video-script.md)
 
 ---
 
