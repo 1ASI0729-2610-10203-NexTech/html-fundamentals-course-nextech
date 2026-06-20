@@ -31,8 +31,8 @@ html-fundamentals-course-nextech/
 |---:|---|---:|
 | 1 | Que es un sitio web | 7 min |
 | 2 | Primera estructura HTML | 8 min |
-| 3 | Etiquetas, elementos y atributos | 7 min |
-| 4 | Elementos HTML comunes | 8 min |
+| 3 | Etiquetas, elementos y atributos | 11 min |
+| 4 | Elementos HTML comunes | 11 min |
 | 5 | Introduccion a CSS | 8 min |
 | 6 | Estilo simple con CSS | 7 min |
 | 7 | Proyecto final: pagina de perfil | 10 min |
@@ -48,9 +48,5 @@ html-fundamentals-course-nextech/
 - YouTube para publicar los videos como no listados.
 
 ## Elaboracion
-
-- Universidad Peruana de Ciencias Aplicadas
 - Carrera de Ingenieria de Software
-- Curso: 1ASI0730 Aplicaciones Web
-- Periodo: 202610
 - Equipo: NexTech
