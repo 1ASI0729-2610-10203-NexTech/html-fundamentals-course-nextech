@@ -30,12 +30,12 @@ Al finalizar el curso, el estudiante podra:
 
 ## Secuencia de lecciones
 
-### Leccion 1: Que es un sitio web (7 minutos)
+### Leccion 1: Que es un sitio web 
 
 - **Dificultad**: Principiante absoluto
 - **Descripcion**: Introduce que es un sitio web, como funciona el navegador y que papel cumplen HTML, CSS y JavaScript.
-- **Enlace de YouTube**: [Ver la leccion](https://youtu.be/ZL58fGB9jGE)
-- **Practica online**: [Abrir en CodePen](https://codepen.io/pen/?template=REEMPLAZAR-L1)
+- **Enlace de YouTube**: https://youtu.be/ZL58fGB9jGE
+- **Practica online**: https://codepen.io
 - **Archivo starter**: [`starter-files/lesson01-intro-web.html`](./starter-files/lesson01-intro-web.html)
 - **Archivo completo**: [`completed-examples/lesson01-intro-web.html`](./completed-examples/lesson01-intro-web.html)
 
@@ -80,12 +80,12 @@ Abre CodePen o tu editor online favorito y escribe el ejemplo anterior. Observa 
 
 ---
 
-### Leccion 2: Primera estructura HTML (8 minutos)
+### Leccion 2: Primera estructura HTML 
 
 - **Dificultad**: Principiante
 - **Descripcion**: Presenta la estructura minima de una pagina HTML y explica para que sirven `<!DOCTYPE html>`, `<html>`, `<head>` y `<body>`.
-- **Enlace de YouTube**: [Ver la leccion](https://youtu.be/CeO20LvVjyY)
-- **Practica online**: [Abrir en CodePen](https://codepen.io/pen/?template=REEMPLAZAR-L2)
+- **Enlace de YouTube**: https://youtu.be/CeO20LvVjyY
+- **Practica online**: https://codepen.io/editor/u20241a195-cmd/pen/019ee2ac-0baf-702b-b004-21baf73262fc
 - **Archivo starter**: [`starter-files/lesson02-html-structure.html`](./starter-files/lesson02-html-structure.html)
 - **Archivo completo**: [`completed-examples/lesson02-html-structure.html`](./completed-examples/lesson02-html-structure.html)
 
@@ -142,12 +142,12 @@ Escribe una pagina pequena con un titulo y dos parrafos. Cambia el texto para qu
 
 ---
 
-### Leccion 3: Etiquetas, elementos y atributos (11:18 minutos)
+### Leccion 3: Etiquetas, elementos y atributos 
 
 - **Dificultad**: Basico
 - **Descripcion**: Explica la diferencia entre etiqueta, elemento y atributo usando ejemplos con parrafos, enlaces e imagenes.
 - **Enlace de YouTube**: https://youtu.be/aWG9XW4Cwr0
-- **Practica online**: [Abrir en CodePen](https://codepen.io/pen/?template=REEMPLAZAR-L3)
+- **Practica online**: https://codepen.io/editor/u20241a195-cmd/pen/019ee294-7ee6-777a-84ec-84c5b167f55b
 - **Archivo starter**: [`starter-files/lesson03-tags-elements-attributes.html`](./starter-files/lesson03-tags-elements-attributes.html)
 - **Archivo completo**: [`completed-examples/lesson03-tags-elements-attributes.html`](./completed-examples/lesson03-tags-elements-attributes.html)
 
@@ -193,12 +193,12 @@ Crea un titulo, un parrafo y un enlace. Luego cambia el texto del enlace por una
 
 ---
 
-### Leccion 4: Elementos HTML comunes (11:17 minutos)
+### Leccion 4: Elementos HTML comunes
 
 - **Dificultad**: Basico
 - **Descripcion**: Presenta encabezados, parrafos, listas, imagenes y enlaces para crear una pagina sencilla.
 - **Enlace de YouTube**: https://youtu.be/lsmOu3zXPJk
-- **Practica online**: [Abrir en CodePen](https://codepen.io/pen/?template=REEMPLAZAR-L4)
+- **Practica online**: https://codepen.io/editor/u20241a195-cmd/pen/019ee2a9-b33e-700d-947f-de3e40e77dc1
 - **Archivo starter**: [`starter-files/lesson04-common-elements.html`](./starter-files/lesson04-common-elements.html)
 - **Archivo completo**: [`completed-examples/lesson04-common-elements.html`](./completed-examples/lesson04-common-elements.html)
 
@@ -254,12 +254,12 @@ Crea una mini pagina de perfil con tu nombre, una descripcion, una lista de inte
 
 ---
 
-### Leccion 5: Introduccion a CSS (8 minutos)
+### Leccion 5: Introduccion a CSS 
 
 - **Dificultad**: Basico
 - **Descripcion**: Explica que es CSS, como se conecta con HTML y como se usan selectores y propiedades.
 - **Enlace de YouTube**: [Ver la leccion](https://youtu.be/Jw-byqwo3WQ)
-- **Practica online**: [Abrir en CodePen](https://codepen.io/Anonymous112_/pen/Byppvrm)
+- **Practica online**: https://codepen.io/Anonymous112_/pen/Byppvrm
 - **Archivo starter**: [`starter-files/lesson05-intro-css.html`](./starter-files/lesson05-intro-css.html)
 - **Archivo completo**: [`completed-examples/lesson05-intro-css.html`](./completed-examples/lesson05-intro-css.html)
 
@@ -324,12 +324,12 @@ Cambia el color del titulo, el color de fondo de la pagina y la fuente del texto
 
 ---
 
-### Leccion 6: Estilo simple con CSS (7 minutos)
+### Leccion 6: Estilo simple con CSS 
 
 - **Dificultad**: Basico
 - **Descripcion**: Aplica estilos simples para mejorar una pagina: centrado, colores, bordes, espacios y botones.
-- **Enlace de YouTube**: [Ver la leccion](https://youtu.be/1w1r9URv8ng)
-- **Practica online**: [Abrir en CodePen](https://codepen.io/Anonymous112_/pen/LExxvVK?editors=1100)
+- **Enlace de YouTube**: https://youtu.be/1w1r9URv8ng
+- **Practica online**: https://codepen.io/Anonymous112_/pen/LExxvVK?editors=1100
 - **Archivo starter**: [`starter-files/lesson06-simple-styles.html`](./starter-files/lesson06-simple-styles.html)
 - **Archivo completo**: [`completed-examples/lesson06-simple-styles.html`](./completed-examples/lesson06-simple-styles.html)
 
@@ -385,12 +385,12 @@ Agrega una tarjeta de perfil, centra el contenido, cambia el fondo y convierte u
 
 ---
 
-### Leccion 7: Proyecto final - Pagina de perfil (10 minutos)
+### Leccion 7: Proyecto final - Pagina de perfil 
 
 - **Dificultad**: Intermedio inicial
 - **Descripcion**: Integra HTML y CSS para construir una pagina de perfil personal completa.
-- **Enlace de YouTube**: [Ver la leccion](https://youtu.be/kuQhxT2BGuU)
-- **Proyecto online**: [Abrir en CodePen](https://codepen.io/pen/?template=REEMPLAZAR-L7)
+- **Enlace de YouTube**: https://youtu.be/kuQhxT2BGuU
+- **Proyecto online**: https://codepen.io/editor/u20241a195-cmd/pen/019ee2ab-85b7-701f-9e0a-20b0c9f612b0
 - **Archivo starter**: [`starter-files/lesson07-final-profile-page.html`](./starter-files/lesson07-final-profile-page.html)
 - **Archivo completo**: [`completed-examples/lesson07-final-profile-page.html`](./completed-examples/lesson07-final-profile-page.html)
 
@@ -459,12 +459,11 @@ Personaliza la pagina con tu nombre, tus intereses, colores propios y un enlace 
 
 ---
 
-### Leccion 8: Recomendaciones y errores comunes (5 minutos)
+### Leccion 8: Recomendaciones y errores comunes
 
 - **Dificultad**: Basico
 - **Descripcion**: Revisa errores frecuentes de HTML y CSS, recomendaciones para principiantes y proximos pasos.
-- **Enlace de YouTube**: [Ver la leccion](https://youtu.be/lzqg2gafHuQ)
-- **Practica online**: [Abrir en CodePen](https://codepen.io/pen/?template=REEMPLAZAR-L8)
+- **Enlace de YouTube**: https://youtu.be/lzqg2gafHuQ
 - **Guion de apoyo**: [`scripts/lesson-08-recommendations-common-errors.md`](./scripts/lesson-08-recommendations-common-errors.md)
 
 #### Objetivos
@@ -523,22 +522,6 @@ Revisa tu pagina final. Comprueba que el titulo, la imagen, la lista, el enlace 
 
 ---
 
-## Enlaces de videos
-
-| Leccion | Video de YouTube no listado |
-|---:|---|
-| 1 | [https://youtu.be/REEMPLAZAR-L1](https://youtu.be/REEMPLAZAR-L1) |
-| 2 | [https://youtu.be/REEMPLAZAR-L2](https://youtu.be/REEMPLAZAR-L2) |
-| 3 | [https://youtu.be/REEMPLAZAR-L3](https://youtu.be/REEMPLAZAR-L3) |
-| 4 | [https://youtu.be/REEMPLAZAR-L4](https://youtu.be/REEMPLAZAR-L4) |
-| 5 | [https://youtu.be/REEMPLAZAR-L5](https://youtu.be/REEMPLAZAR-L5) |
-| 6 | [https://youtu.be/REEMPLAZAR-L6](https://youtu.be/REEMPLAZAR-L6) |
-| 7 | [https://youtu.be/parte 7](https://youtu.be/kuQhxT2BGuU) |
-| 8 | [https://youtu.be/parte_8](https://youtu.be/lzqg2gafHuQ) |
-
-> Reemplazar cada enlace cuando los videos no listados esten publicados en YouTube.
-
----
 
 ## Recursos adicionales
 
@@ -549,21 +532,3 @@ Revisa tu pagina final. Comprueba que el titulo, la imagen, la lista, el enlace 
 - [Replit](https://replit.com/)
 
 ---
-
-## Elaboracion
-
-- Universidad Peruana de Ciencias Aplicadas
-- Carrera de Ingenieria de Software
-- Periodo 202610
-- Curso: 1ASI0730 Aplicaciones Web
-- Equipo: NexTech
-- Producto: Curso de fundamentos de HTML y CSS
-
-**Responsables internos identificados en el guion**:
-
-- Davicho: lecciones 1 y 2
-- Sofia: lecciones 3 y 4
-- Rafael: lecciones 5 y 6
-- Enrique: lecciones 7 y 8
-
-**Fecha de entrega**: Por completar
